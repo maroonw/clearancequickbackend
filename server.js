@@ -1,5 +1,5 @@
-const User = require('../poolMagic/models/User')
-const Note = require('../poolMagic/models/Note')
+const User = require('../models/User')
+const Note = require('../models/Note')
 const bcrypt = require('bcrypt')
 
 // @desc Get all users
